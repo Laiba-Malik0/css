@@ -1,0 +1,40 @@
+.a{
+    margin-bottom: -20px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+ ul a{
+    
+    list-style-type:none;
+    text-decoration: none;
+    color: black;
+ }
+li{
+     text-align: center;
+    text-decoration:none;
+    display: inline;
+    margin-left: 130px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ } 
+li a:hover{
+    color: rgb(12, 12, 5);
+    background-color: rgb(123, 238, 247);
+    font-size: 20px;
+    text-decoration: underline wavy;
+ }
+ hr{
+    width: 870px;
+ }
+ .c img{
+    height: 200px;
+    width: 240px;
+ }
+ p{
+    text-align: justify;
+    margin-left: 170px;
+    margin-right: 170px;
+    
+ }
+  
+
+
